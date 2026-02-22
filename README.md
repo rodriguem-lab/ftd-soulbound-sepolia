@@ -35,3 +35,6 @@ Example metadata structure:
   "description": "Official academic credential issued by FTD",
   "image": "ipfs://CID_IMAGE"
 }
+
+Deployed Contract (Sepolia):
+0xE55725bA42D39ee7CA3a01585B7861612142C7BF
