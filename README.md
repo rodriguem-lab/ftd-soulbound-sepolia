@@ -16,7 +16,7 @@ The contract enforces non-transferability at the protocol level and restricts mi
 
 Core Functions
 mint(address student)
-mintBatch(address[] students)
+mintBatch(address() students)
 revoke(uint256 tokenId)
 setCohortURI(string newURI)
 Transfers are disabled in the internal _update function to ensure Soulbound behavior.
