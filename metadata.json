@@ -1,0 +1,9 @@
+{
+  "name": "FTD Master 2026 - Soulbound Credential",
+  "description": "Official academic credential issued by Sorbonne/FTD",
+  "image": "ipfs://bafybeidpyvim2lk65ri5pp5fykg35dxk34llwhtwvm4ghmnvoryfb7oq3q",
+  "attributes": [
+    { "trait_type": "Program", "value": "FTD Master" },
+    { "trait_type": "Cohort", "value": "2026" }
+  ]
+}
